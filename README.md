@@ -2,15 +2,15 @@
 This repository contains code for detecting credit card fraud using various machine learning models. The dataset used in this project is sourced from the [Credit Card Fraud](https://www.kaggle.com/datasets/whenamancodes/fraud-detection).
 
 ## Table of Contents
-[Introduction](introduction)
-[Data Preprocessing](data-preprocessing)
-[Feature Selection](feature-selection)
-[Model Training and Evaluation](model-training-and-evaluation)
-[Results](results)
-[Installation](installation)
-[Usage](usage)
-[Contributing](contributing)
-[License](contributing)
+- [Introduction](introduction)
+- [Data Preprocessing](data-preprocessing)
+- [Feature Selection](feature-selection)
+- [Model Training and Evaluation](model-training-and-evaluation)
+- [Results](results)
+- [Installation](installation)
+- [Usage](usage)
+- [Contributing](contributing)
+- [License](contributing)
 
 ## Introduction
 Credit card fraud detection is a crucial task in financial security. This project aims to identify fraudulent credit card transactions using various machine learning algorithms, including Logistic Regression, Isolation Forest, Random Forest, CatBoost, Deep Neural Networks (DNNs), XGBoost, and Long Short-Term Memory (LSTM) networks.
@@ -77,4 +77,4 @@ python main.py
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](#license) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
