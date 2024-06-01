@@ -1,6 +1,6 @@
 # Credit-card-fraud-detection
 This repository contains code for detecting credit card fraud using various machine learning models. The dataset used in this project is sourced from the [Credit Card Fraud](https://www.kaggle.com/datasets/whenamancodes/fraud-detection).
-
+![screenshot](Model.drawio.png)
 ## Table of Contents
 - [Introduction](introduction)
 - [Data Preprocessing](data-preprocessing)
